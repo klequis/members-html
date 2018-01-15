@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="286"
+   height="240"
+   viewBox="0 0 286 240"
+   preserveAspectRatio="none"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="placeholder-taller.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview15"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0629371"
+     inkscape:cx="-74.792763"
+     inkscape:cy="128.57236"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style6">#holder_160f6fdd53f text { fill:rgba(255,255,255,.75);font-weight:normal;font-family:Helvetica, monospace;font-size:14pt } </style>
+  </defs>
+  <g
+     id="g4156"
+     transform="translate(15.993421,21.427639)">
+    <g
+       transform="matrix(1,0,0,1.3333333,-15.993421,-21.427639)"
+       id="holder_160f6fdd53f">
+      <rect
+         style="fill:#777777"
+         y="0"
+         x="0"
+         id="rect9"
+         height="180"
+         width="286" />
+      <g
+         id="g11">
+        <text
+           style="font-weight:normal;font-size:17.5px;font-family:Helvetica, monospace"
+           id="text13"
+           y="96.300003"
+           x="107.20312">286x180</text>
+      </g>
+    </g>
+    <g
+       transform="translate(47.980263,161.81579)"
+       id="g4151">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect3345"
+         width="170.2829"
+         height="73.381577"
+         x="-3.7631578"
+         y="-102.23684" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:30.04913139px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="15.781456"
+         y="-52.234093"
+         id="text4147"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4149"
+           x="15.781456"
+           y="-52.234093">286x240</tspan></text>
+    </g>
+  </g>
+</svg>
